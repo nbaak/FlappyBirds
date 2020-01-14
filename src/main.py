@@ -13,7 +13,7 @@ END_FONT = pygame.font.SysFont("comicsans", 70)
 DRAW_LINES = False
 
 WIN = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
-pygame.display.set_caption("Flappy Bird")
+pygame.display.set_caption("Flappy Birds")
 
 BACKGROUND_IMAGE = pygame.transform.scale(pygame.image.load(os.path.join("images","bg.png")).convert_alpha(), (600, 900))
 
