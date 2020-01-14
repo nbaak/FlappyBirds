@@ -1,7 +1,7 @@
-## Flappy Birds Game with NEAT
+# Flappy Birds Game with NEAT
 A simple Flappy Birds Game in Python with Pygame to learn NEAT.
 
-# Requirements
+## Requirements
 
 * pip3 install numpy
 * pip3 install pygame
